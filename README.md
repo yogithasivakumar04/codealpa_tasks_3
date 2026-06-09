@@ -36,4 +36,3 @@ CodeAlpha C Programming Internship
 
 ---
 
-Task 3: Student Management System
