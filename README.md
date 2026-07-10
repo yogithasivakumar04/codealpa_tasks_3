@@ -1,38 +1,35 @@
-# codealpa_tasks_3
 Student Management System in C
 
-Project Description
+About Project
 
-This project is a menu-driven Student Management System developed using C programming language. It uses structures and file handling to store student records permanently.
+This project is developed using the C programming language to manage student details efficiently. It allows users to store, view, and manage student information using basic programming concepts.
 
 Features
 
-- Add Student Record
-- Display All Records
-- Search Student Record
-- Update Student Record
-- Delete Student Record
-- Permanent Storage using File Handling
+- Add student details
+- View student records
+- Search student information
+- Update student details
+- Delete student records
 
-Concepts Used
+Technologies Used
 
-- Structures
-- Functions
-- File Handling
-- Menu-Driven Programming
-- Searching and Updating Records
+- C Programming Language
 
-Language Used
+How to Run
 
-- C Programming
+1. Download or clone this repository
+2. Open the C file using a C compiler
+3. Compile the program
+4. Run the executable file
+
+Learning Outcomes
+
+- Learned structure and file handling concepts in C
+- Improved data management skills
+- Developed problem-solving and programming skills
 
 Author
 
-Yogitha
-
-Internship
-
-CodeAlpha C Programming Internship
-
----
+Yogitha 
 
